@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["Watching Star's MM Service"];
-const statusTypes = ['dnd'];
+const statusTypes = [ 'dnd'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
